@@ -10,8 +10,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
-      <a href="/indexBootstrap.html">SACAME DE ACAAAAAAAAAAAAAAAAA!</a>
-      
+      <!-- Boton volver -->
+      <div class="container pagination justify-content-center ">
+          
+          <a class="btn btn-light " href="/indexBootstrap.html">Inicio</a>
+      </div>
+    <!-- /Boton volver -->
       <!-- LOGIN -->
     <div class="container" style="margin: 13vw;">
         <div class="modal-header">
@@ -60,20 +64,25 @@
                         
                         </div>
                         <!-- /RContraseña -->
+
                         <!-- Terminos y Condiciones -->
-                        <div class="input-group mb-3">
-                            <div class="input-group-prepend mb-3">
-                                <div class="input-group-text">
-                                    <input type="checkbox" aria-label="Checkbox for following text input">
+                        <div class="container input-group mb-3 pagination justify-content-center">
+                            <div class="row">
+                                
+                                <div class="input-group-prepend col-2 ">
+                                    <div class="input-group-text">
+                                        <input type="checkbox" aria-label="Checkbox for following text input">
+                                    </div>
+                                </div>
+                                <div class="input-group-prependalert alert-warning col-10" role="alert">
+                                    Está de acuerdo con los <a target="_blank" href="https://github.com/JoseAgustinRios/ClassroomB4/blob/master/LICENSE">
+                                        Terminos y condiciones</a> de uso?
                                 </div>
                             </div>
-                            <div class="alert alert-warning" role="alert">
-                                Está de acuerdo con los <a target="_blank" href="https://github.com/JoseAgustinRios/ClassroomB4/blob/master/LICENSE">
-                                    Terminos y condiciones</a> de uso?
-                            </div>
-                            
+                           
                         </div>
                         <!-- /Terminos y Condiciones -->
+
                         <button class="btn btn-block btn-primary" type="submit" href="#">
                             Crear
                         </button>
