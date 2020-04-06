@@ -1,8 +1,231 @@
 .bodyCus{
-            background-color: #ecdfc8;
-        }
+    background-color: #ecdfc8;
+}
 .tarea{
-            background-color: #fcf8e8; 
-            border: 3px #df7861 solid;
-            border-radius: 6px;
-        }
+    background-color: #fcf8e8; 
+    border: 3px #df7861 solid;
+    border-radius: 6px;
+}
+
+
+/* #1 */
+/* 
+body{
+    background-color: #d8b9c3 ;
+}
+.cardcss .card{
+    background-color: #827397;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #363062 !important;
+    color: white;
+}
+#footer{
+    background-color: #363062 !important;
+    color: white !important;
+}
+#header{
+    background-color: #363062 !important;
+    color: white !important;
+} */
+
+/* #2 */
+/* body{
+    
+    background-color: #363062 !important;
+}
+.cardcss .card{
+    background-color: #827397;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #d8b9c3 !important;
+    color: white;
+}
+#footer{
+    background-color: #d8b9c3 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #d8b9c3 !important ;
+    font
+    color:black !important;
+} */
+
+/* #3 */
+/* body{
+    
+    background-color: #f4eeff !important;
+}
+.cardcss .card{
+    background-color: #a6b1e1;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #424874 !important;
+    color: white;
+}
+#footer{
+    background-color: #424874 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #424874 !important ;
+    
+    color: black !important;
+} */
+/* #4 */
+/* body{
+    
+    background-color: #424874 !important;
+}
+.cardcss .card{
+    background-color: #a6b1e1;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #f4eeff !important;
+    color: white;
+}
+#footer{
+    background-color: #f4eeff !important ;
+    color: black !important;
+}
+#header {
+    background-color: #f4eeff !important ;
+    
+    color: black !important;
+} */
+/* #5 */
+/* body{
+    
+    background-color: #cae8d5 !important;
+}
+.cardcss .card{
+    background-color: #84a9ac;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #204051 !important;
+    color: white;
+}
+#footer{
+    background-color: #204051 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #204051 !important ;
+    
+    color: black !important;
+} */
+/* #6 */
+/* body{
+    
+    background-color: #204051 !important;
+}
+.cardcss .card{
+    background-color: #84a9ac;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #cae8d5 !important;
+    color: white;
+}
+#footer{
+    background-color: #cae8d5 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #cae8d5 !important ;
+    
+    color: black !important;
+} */
+/* #7 */
+/* body{
+    
+    background-color: #00a8cc !important;
+}
+.cardcss .card{
+    background-color: #0c7b93;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #142850 !important;
+    color: white;
+}
+#footer{
+    background-color: #142850 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #142850 !important ;
+    
+    color: black !important;
+} */
+/* #8 */
+/* body{
+    
+    background-color: #142850 !important;
+}
+.cardcss .card{
+    background-color: #0c7b93;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #00a8cc !important;
+    color: white;
+}
+#footer{
+    background-color: #00a8cc !important ;
+    color: black !important;
+}
+#header {
+    background-color: #00a8cc !important ;
+    
+    color: black !important;
+} */
+/* #9 */
+/* body{
+    
+    background-color: #ffac41 !important;
+}
+.cardcss .card{
+    background-color: #ff1e56;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #000000 !important;
+    color: white;
+}
+#footer{
+    background-color: #000000 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #000000 !important ;
+    
+    color: black !important;
+} */
+/* #10 */
+body{
+    
+    background-color: #000000 !important;
+}
+.cardcss .card{
+    background-color: #ff1e56;
+    color: white;
+}
+.cardcss .btn{
+    background-color: #ffac41 !important;
+    color: white;
+}
+#footer{
+    background-color: #ffac41 !important ;
+    color: black !important;
+}
+#header {
+    background-color: #ffac41 !important ;
+    
+    color: black !important;
+}
